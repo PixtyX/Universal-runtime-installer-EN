@@ -5,7 +5,11 @@
 .. image:: https://img.shields.io/github/downloads/Manily04/Universal-runtime-installer-EN/total?label=Downloads
    :alt: Total Downloads
    :target: https://github.com/Manily04/Universal-runtime-installer-EN/releases/latest
-   
+
+OUT OF SUPPORT! 
+=============================== 
+This version of the installer has been replaced by `my new project <https://github.com/Manily04/Universal-runtime-installer/>`_!
+
 Universal runtime installer
 ===============================
 This installer allows to install the latest Visual C++ Runtime of all years (2008-2022), Full DirectX Runtime, Microsoft XNA Framework, .Net Runtime, Java and OpenAL at once.
